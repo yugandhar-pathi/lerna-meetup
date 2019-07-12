@@ -1,6 +1,6 @@
 {
   "name": "meetup-demo-ui-patterns",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -13,7 +13,7 @@
   "author": "yugandhar-pathi",
   "license": "ISC",
   "dependencies": {
-    "meetup-demo-basic-components": "^0.0.8"
+    "meetup-demo-basic-components": "^0.0.9"
   },
   "peerDependencies": {
     "react": ">= 16.8.6",
