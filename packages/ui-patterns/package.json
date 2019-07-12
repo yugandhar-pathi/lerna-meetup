@@ -13,7 +13,7 @@
   "author": "yugandhar-pathi",
   "license": "ISC",
   "dependencies": {
-    "basic-components": "^0.0.4"
+    "meetup-demo-basic-components": "^0.0.5"
   },
   "peerDependencies": {
     "react": ">= 16.8.6",
