@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yugandhar Pathi",
   "license": "ISC",
   "peerDependencies": {
     "react": ">= 16.8.6",
@@ -30,5 +30,6 @@
     "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.0"
-  }
+  },
+  "gitHead": "67f5f92e53931987b18da5e1a0c3e5ff52a76271"
 }
