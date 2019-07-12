@@ -2,7 +2,7 @@ import React from 'react';
 
 const FancyButton = (props) => {
   return (
-    <button>{props.label}</button>
+    <button onclick={props.onclick}>{props.label}</button>
   )
 }
 
