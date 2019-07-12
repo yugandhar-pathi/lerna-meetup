@@ -1,5 +1,5 @@
 {
-  "name": "basic-components",
+  "name": "meetup-demo-basic-components",
   "version": "0.0.4",
   "description": "",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Yugandhar Pathi",
+  "author": "yugandhar-pathi",
   "license": "ISC",
   "peerDependencies": {
     "react": ">= 16.8.6",
@@ -31,5 +31,5 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.0"
   },
-  "gitHead": "67f5f92e53931987b18da5e1a0c3e5ff52a76271"
+  "gitHead": "f0c4345cbfbc9cfed3e861bad5fe2843f5fbbe56"
 }
