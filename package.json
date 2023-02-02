@@ -5,6 +5,6 @@
     "bootstrap" : "lerna bootstrap"
   },
   "devDependencies": {
-    "lerna": "^3.15.0"
+    "lerna": "^6.4.1"
   }
 }
